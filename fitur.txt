@@ -1,0 +1,4 @@
+Tools yang harus dipelajari untuk menjadi seorang Expert Front-End Developer:
+  * ReactJS
+  * React Hooks
+  * Redux
