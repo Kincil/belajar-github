@@ -1,6 +1,7 @@
 Resolusi Tahun 2025 :
   - Bisa React JS
   - Bisa Tailwind CSS
-  - Bisa NextJs
-  - Bisa NodeJs
-  - MongoDB
+  - Bisa ExpressJS
+  - Bisa NodeJS
+  - Bisa Laravel
+  - Paham Struktur Data
