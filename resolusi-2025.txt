@@ -1,0 +1,4 @@
+Resolusi Tahun 2025 :
+  - Bisa React JS
+  - Bisa Tailwind CSS
+  - Bisa NextJs
